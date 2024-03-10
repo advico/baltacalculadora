@@ -1,0 +1,14 @@
+C:\Users\adria\projetobaltacalc\bin\Debug\net8.0\projetobaltacalc.exe
+C:\Users\adria\projetobaltacalc\bin\Debug\net8.0\projetobaltacalc.deps.json
+C:\Users\adria\projetobaltacalc\bin\Debug\net8.0\projetobaltacalc.runtimeconfig.json
+C:\Users\adria\projetobaltacalc\bin\Debug\net8.0\projetobaltacalc.dll
+C:\Users\adria\projetobaltacalc\bin\Debug\net8.0\projetobaltacalc.pdb
+C:\Users\adria\projetobaltacalc\obj\Debug\net8.0\projetobaltacalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\projetobaltacalc\obj\Debug\net8.0\projetobaltacalc.AssemblyInfoInputs.cache
+C:\Users\adria\projetobaltacalc\obj\Debug\net8.0\projetobaltacalc.AssemblyInfo.cs
+C:\Users\adria\projetobaltacalc\obj\Debug\net8.0\projetobaltacalc.csproj.CoreCompileInputs.cache
+C:\Users\adria\projetobaltacalc\obj\Debug\net8.0\projetobaltacalc.dll
+C:\Users\adria\projetobaltacalc\obj\Debug\net8.0\refint\projetobaltacalc.dll
+C:\Users\adria\projetobaltacalc\obj\Debug\net8.0\projetobaltacalc.pdb
+C:\Users\adria\projetobaltacalc\obj\Debug\net8.0\projetobaltacalc.genruntimeconfig.cache
+C:\Users\adria\projetobaltacalc\obj\Debug\net8.0\ref\projetobaltacalc.dll

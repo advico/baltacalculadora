@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "projetobaltacalc/1.0.0": {
+        "runtime": {
+          "projetobaltacalc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "projetobaltacalc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
